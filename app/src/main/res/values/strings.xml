@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Yoga Trivia</string>
+
+    <!-- Question 1-->
+    <string name="question1Title">Question #1</string>
+    <string name="question1">Which two types of yoga link breath and movement?</string>
+    <string name="answerHatha">Hatha</string>
+    <string name="answerAshtanga">Ashtanga</string>
+    <string name="answerVinyasa">Vinyasa</string>
+    <string name="answerBikram">Bikram</string>
+
+    <!--Question 2 -->
+    <string name="question2Title">Question #2</string>
+    <string name="question2">The word "yoga" is derived from a Sanskrit word meaning what?</string>
+    <string name="answerMediation">Meditation</string>
+    <string name="answerUnion">Union</string>
+    <string name="answerTwist">Twist</string>
+
+    <!--Question 3 -->
+    <string name="question3Title">Question #3</string>
+    <string name="question3">Who wrote the book "Light on Yoga"?</string>
+    <string name="hintIyengar">Enter author\'s last name only</string>
+
+    <!--Question 4 -->
+    <string name="question4Title">Question #4</string>
+    <string name="question4">Which of the following is not one of the eight limbs of Ashtanga yoga?</string>
+    <string name="answerPranayama">Pranayama</string>
+    <string name="answerAma">Ama</string>
+    <string name="answerSamadhi">Samadhi</string>
+
+    <!--Question 5-->
+    <string name="question5Title">Question #5</string>
+    <string name="question5">A yama is a restraint meant to provide an ethical guideline. Which yamas dictate truth and nonviolence?</string>
+    <string name="answerSatya">Satya</string>
+    <string name="answerAhimsa">Ahimsa</string>
+    <string name="answerAsteya">Asteya</string>
+
+    <!--Submit Button-->
+    <string name="submit">Submit</string>
+
+</resources>
